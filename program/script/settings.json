@@ -1,0 +1,38 @@
+{
+  "language": "ru",
+  "recognition_engines": [
+    "vosk_ru"
+  ],
+  "voice_reply": false,
+  "gestures_enabled": false,
+  "current_bg": {
+    "name": "",
+    "image": "",
+    "mode": "none",
+    "dim": 60,
+    "top": true,
+    "offset": [
+      0,
+      0
+    ],
+    "scale": 1.0
+  },
+  "saved_backgrounds": [],
+  "quality_mode": 4,
+  "greeting_mode": false,
+  "fullscreen_mode": false,
+  "music_folder": "",
+  "mic_index": null,
+  "log_options": {
+    "time": true,
+    "ms": true,
+    "phrase": true,
+    "volume": true,
+    "engine": true,
+    "words": true,
+    "confidence": false,
+    "decision": true,
+    "lag": true,
+    "queue": false
+  }
+}

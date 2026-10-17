@@ -1,0 +1,15 @@
+# Windows 10/11: Python 3.11+, Qt 6 (PySide6)
+# Список для ручной установки. Через START_JARVIS.bat всё ставится само.
+PySide6
+numpy
+psutil
+SpeechRecognition
+pyaudio
+playsound==1.2.2
+comtypes
+pycaw
+vosk
+pyttsx3
+opencv-python
+mediapipe
+# opencv-python и mediapipe нужны только для жестов камеры. Без них всё остальное работает.

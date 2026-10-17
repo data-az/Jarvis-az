@@ -1,0 +1,16 @@
+# Windows 8.1: Python 3.11, Qt 5.15 (PyQt5)
+# Список для ручной установки. Через START_JARVIS.bat всё ставится само.
+PyQt5==5.15.11
+numpy
+psutil
+SpeechRecognition
+pyaudio
+playsound==1.2.2
+comtypes
+pycaw
+vosk
+pyttsx3
+# Жесты камеры на Windows 8.1 могут не работать: MediaPipe не поддерживает старые системы.
+# Если установка не получилась, пропустите эти две строки: остальное работает без них.
+opencv-python
+mediapipe
